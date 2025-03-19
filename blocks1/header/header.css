@@ -1,5 +1,5 @@
-@import url(/blocks/header/__logo/header__logo.css);
-@import url(/blocks/header/__logo/__lang-link/heder__logo__lang-link.css);
+@import url(/blocks1/header/__logo/header__logo.css);
+@import url(/blocks1/header/__logo/__lang-link/heder__logo__lang-link.css);
 
 .header {
     max-height: 756px;
